@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/PranexaCare/static/css/main.fb665e37.css",
-    "main.js": "/PranexaCare/static/js/main.f09289d6.js",
+    "main.js": "/PranexaCare/static/js/main.9d7df257.js",
     "static/js/453.a9219791.chunk.js": "/PranexaCare/static/js/453.a9219791.chunk.js",
     "static/media/medical-team.png": "/PranexaCare/static/media/medical-team.80c0a0969088b40493cb.png",
     "index.html": "/PranexaCare/index.html",
     "main.fb665e37.css.map": "/PranexaCare/static/css/main.fb665e37.css.map",
-    "main.f09289d6.js.map": "/PranexaCare/static/js/main.f09289d6.js.map",
+    "main.9d7df257.js.map": "/PranexaCare/static/js/main.9d7df257.js.map",
     "453.a9219791.chunk.js.map": "/PranexaCare/static/js/453.a9219791.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb665e37.css",
-    "static/js/main.f09289d6.js"
+    "static/js/main.9d7df257.js"
   ]
 }
