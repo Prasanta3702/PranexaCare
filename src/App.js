@@ -6,7 +6,7 @@ import ServicesPage from './pages/ServicesPage';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/PranexaCare">
       <Routes>
         <Route path='/' element={<HomePage />} />
         <Route path='/about' element={<AboutPage />} />
